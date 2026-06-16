@@ -12,8 +12,6 @@ la cantidad de requisitos(EJEMPLO: 1) y su requisito correspondiente (EJEMPLO: P
 NOTA IMPORTANTE: Los bloques deben ser asignados de manera ascendente, si se intenta asignar un bloque menor al ultimo asignado,  el programa
 no lo asignara (Ejemplo: Ingresar 5-7 y luego 2-4 esta incorrecto.)
 
-*EN LA FOTO ADJUNTA SE DA EL EJEMPLO ESTANDAR DE ENTRADA*
-
 En la salida del programa se mostrara un entero que corresponde a las salas y cursos que quedaron emparejados, seguido de cuales son. Seguido de un entero que corresponde a la cantidad de cursos que quedaron sin sala.
 
 
